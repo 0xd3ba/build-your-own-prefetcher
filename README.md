@@ -34,7 +34,7 @@ use [this version of ChampSim](https://github.com/cs-773/ChampSim).
 - [Preliminaries - Getting Started](0_preliminaries/)
 - [ChampSim's Prefetching API](1_prefetching_api/)
 - [Let's Write a Prefetcher! - Problem Statement](2_write_a_prefetcher_p1/)
-- [Let's Write a Prefetcher! - Implementation]()
+- [Let's Write a Prefetcher! - Implementation](3_write_a_prefetcher_p2/)
 - [Evaluating a Prefetcher - How Did it Perform ?]()
 - [Visualizing the Results - An Image is Worth Thousand Numbers !]()
 - [Where to Go Next - Machine Learning for Prefetching !?]()

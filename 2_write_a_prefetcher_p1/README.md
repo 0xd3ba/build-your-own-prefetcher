@@ -61,6 +61,6 @@ will only start sending prefetches again only when the accumulated history becom
 Can you help Golu design the prefetcher (for `K = 5`) and help him evaluate its performance when compared against a system 
 with no prefetcher and the traditional *Next-Line Prefetcher* ?
 
-## Exercise
+## Exercises
 1. Try building the prefetcher on your own without referring to the solution (described in the next part). Feel free to 
 go though the previous two parts of the guide, where basics of ChampSim and the prefetching API were described.
