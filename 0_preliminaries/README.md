@@ -121,9 +121,13 @@ To get the feel, try out the following exercises.
 
 ## Exercises
 1. Try a warm-up of 1-million and simulation of 1-million instructions each. What change in IPC do you observe ? 
+    * What about 0-million instructions as warm-up and 1-million simulation instructions ?
     * What about 30-million instructions warm-up and 50-million instructions for simulation ? (It may take 15-30 min each, in this case)
 2. Previously we were using IPCP at both L1-D and L2 caches. What would be the change in IPC if **no prefetcher is used at L2 cache** ? 
 (Use 10-million instructions for both warm-up and simulation, similiar to before)
+3. Try out the same experiment, but with the following benchmark's trace: `605.mcf_s-994B.champsimtrace.xz`
+    * Why do you think it performed the way it performed ?
+    * What can you infer (at a high-level) about the prefetcher based on the performance it obtained ?
 
 ## References
 [1] Samuel Pakalapati and Biswabandan Panda, [“Bouquet of Instruction Pointers: Instruction Pointer Classifier-based Spatial Hardware Prefetching”](https://www.cse.iitk.ac.in/users/biswap/IPCP_ISCA20.pdf), 

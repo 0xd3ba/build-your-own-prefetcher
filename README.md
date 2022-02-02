@@ -25,10 +25,14 @@ Feel free to skip through the parts if you're already familiar with the ropes.
  here and there. If you find any issues, feel free to raise an issue and I'll try to fix it 🙂
  - This guide doesn't cover every aspect of ChampSim. If you have any such queries or other issues, please contact the devs of ChampSim.
  
+**Update (2nd Feb, 2022)**: If you look at ChampSim's repository, you'll find that the build process, the prefetching API etc.
+are different from what's written in this guide. ChampSim went through a big overhaul and more than a year worth of updates
+have been (finally) merged into main branch, around a week back. This guide will be updated accordingly in the future, but for now,
+use [this version of ChampSim](https://github.com/cs-773/ChampSim).    
  
 ## Table of Contents
 - [Preliminaries - Getting Started](0_preliminaries/)
-- [ChampSim's Prefetching Framework]()
+- [ChampSim's Prefetching API]()
 - [Let's Write a Prefetcher! - Problem Statement]()
 - [Let's Write a Prefetcher! - Implementation]()
 - [Evaluating a Prefetcher - How Did it Perform ?]()
