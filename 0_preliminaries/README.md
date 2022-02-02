@@ -29,7 +29,7 @@ you start off with the workshop paper [2], which is only 4 pages, before reading
 
 Follow the given steps:
 
-1. Clone [ChampSim](https://github.com/ChampSim/ChampSim) repository.
+1. Clone [ChampSim](https://github.com/cs-773/ChampSim) repository.
 You'll notice a lot of directories inside `ChampSim/`. The `prefetcher/` directory stores the **C++** source code (don't get confused
 by the weird file extensions) for the prefetchers, which is of interest. The naming convention is as follows
 
